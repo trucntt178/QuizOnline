@@ -1,5 +1,5 @@
 # Welcome to Quiz Online repository
-[![build](https://github.com/trucntt178/QuizOnline/actions/workflows/main.yml/badge.svg)](https://github.com/trucntt178/QuizOnline/actions/workflows/main.yml)
+[![CI](https://github.com/trucntt178/QuizOnline/actions/workflows/main.yml/badge.svg)](https://github.com/trucntt178/QuizOnline/actions/workflows/main.yml)
 
 
 ### This repo contains the Java source code about a web application supports students take the multi-choice quiz and supports academic staff in managing questions.
